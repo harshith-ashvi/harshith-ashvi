@@ -3,7 +3,6 @@
 ## About Me
 
 - 🚪 I'm looking for opportunities as Front End React Developer.
-- 🎯 Goal to become Full Stack Developer in MERN technology in 2022.
 - 🔭 Exploring new technologies and developing software solutions.
 - 📡 Interested in contributing to open-source space science and technology.
 
